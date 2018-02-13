@@ -1,0 +1,31 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node  index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tutmasters/Mean-stack-using-Angular2.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Application",
+    "with",
+    "Angular2"
+  ],
+  "author": "Monu Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tutmasters/Mean-stack-using-Angular2/issues"
+  },
+  "homepage": "https://github.com/Tutmasters/Mean-stack-using-Angular2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.4"
+  }
+}
